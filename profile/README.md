@@ -1,11 +1,14 @@
-GAMBIARRA LLM CLUB
+<p align="center">
+  <img src="../images/gambiarra-logo.png" />
+</p>
+
+# GAMBIARRA LLM CLUB
 O primeiro clube de LLMs caseiras do Brasil
 
-==============================================
 
-SOBRE O CLUBE
+# SOBRE O CLUBE
 
-O Gambiarra LLM Club é inspirado no Homebrew Computer Club, o lendário clube de hobbistas que construíam seus próprios computadores na época dos mainframes.
+O Gambiarra LLM Club é inspirado no [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club), o lendário clube de hobbistas que construíam seus próprios computadores na época dos mainframes.
 
 Somos uma comunidade de entusiastas que rodam seus modelos de linguagem localmente, ajustando as configurações para alcançar o melhor resultado que der.
 
@@ -23,9 +26,8 @@ Troca de conhecimento, ferramentas, prompts, LLMs open source.
 📅 Encontros Regulares
 Mensais ou bimestrais, sempre de forma presencial.
 
-==============================================
 
-MANIFESTO DO GAMBIARRA LLM CLUB
+# MANIFESTO DO GAMBIARRA LLM CLUB
 
 Nós, curiosos, malucos e entusiastas das inteligências artificiais caseiras, declaramos: a revolução dos LLMs começa na gambiarra.
 
@@ -53,9 +55,7 @@ Junte-se ao Gambiarra LLM Club. A criatividade é nosso benchmark.
 
 @fcac 29/07/2025
 
-==============================================
-
-JOGOS, EXPERIMENTOS E COMPETIÇÕES
+# JOGOS, EXPERIMENTOS E COMPETIÇÕES
 
 🤖 Bot-a-Bot (Médio)
 Dois LLMs conversam tentando manter coerência o maior tempo possível
@@ -93,9 +93,7 @@ Melhor modelo no hardware mais limitado
 - Quantização extrema
 - Performance vs recursos
 
-==============================================
-
-RECOMPENSAS & EXTRAS
+# RECOMPENSAS & EXTRAS
 
 🏆 Troféus Simbólicos:
 
@@ -123,8 +121,8 @@ Respostas mais inteligentes
 - Discord exclusivo
 - Mentoria entre membros
 
-Em Preparação:
-📱 App mobile para competições remotas
-📊 Dashboard de performance histórica
-🎮 Torneios online entre encontros
-🛒 Marketplace de prompts e configs
+## Em Preparação:
+- 📱 App mobile para competições remotas
+- 📊 Dashboard de performance histórica
+- 🎮 Torneios online entre encontros
+- 🛒 Marketplace de prompts e configs
